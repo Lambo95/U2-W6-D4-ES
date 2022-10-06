@@ -1,0 +1,23 @@
+{
+  "name": "u2-w6-d4-es",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "sass assets/scss/styles.scss assets/css/styles.css -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lambo95/U2-W6-D4-ES.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lambo95/U2-W6-D4-ES/issues"
+  },
+  "homepage": "https://github.com/Lambo95/U2-W6-D4-ES#readme",
+  "dependencies": {
+    "bootstrap": "^5.2.2"
+  }
+}

@@ -1,0 +1,14 @@
+// 1) Definisco le variabili di Bootstrap che voglio sovrascrivere.
+// @import "./variables";
+
+// 2) Importo il sorgente di Bootstrap -- le mie variabili andranno a sovrascrivere
+// quelle che si chiamano allo stesso modo
+@import "../../node_modules/bootstrap/scss/bootstrap.scss";
+
+// _________________________________
+// Qua scrivo il mio SCSS, solitamente diviso in più file (per avere ordine nel progetto)
+@import "./mixin";
+// ...
+// .col {
+//   @include col-size(100%, 20rem);
+// }
