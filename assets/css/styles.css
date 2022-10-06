@@ -10771,5 +10771,8 @@ textarea.form-control-lg {
     display: none !important;
   }
 }
+.my-col {
+  height: 100vh;
+}
 
 /*# sourceMappingURL=styles.css.map */

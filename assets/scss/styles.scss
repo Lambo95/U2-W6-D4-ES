@@ -9,6 +9,6 @@
 // Qua scrivo il mio SCSS, solitamente diviso in più file (per avere ordine nel progetto)
 @import "./mixin";
 // ...
-// .col {
-//   @include col-size(100%, 20rem);
-// }
+.my-col {
+  @include col-size(100vh);
+}

@@ -1,4 +1,3 @@
-@mixin col-size($sx, $sy) {
-  width: $sx;
+@mixin col-size($sy) {
   height: $sy;
 }
